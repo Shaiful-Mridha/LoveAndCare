@@ -12,31 +12,31 @@ import Last from "./components/Last/Last";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/LoveAndCare/",
     element: <Main></Main>,
     children: [
       {
-        path: "/",
+        path: "/LoveAndCare/",
         element: <Life></Life>,
       },
       {
-        path: "/moon",
+        path: "/LoveAndCare/moon",
         element: <Moon></Moon>,
       },
       {
-        path: "/love",
+        path: "/LoveAndCare/love",
         element: <Love></Love>,
       },
       {
-        path: "/shaif",
+        path: "/LoveAndCare/shaif",
         element: <Shaif></Shaif>,
       },
       {
-        path: "/pain",
+        path: "/LoveAndCare/pain",
         element: <Pain></Pain>,
       },
       {
-        path: "/last",
+        path: "/LoveAndCare/last",
         element: <Last></Last>,
       },
     ],

@@ -3,12 +3,12 @@ import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <div>
-      <Link to="/">Life</Link>
-      <Link to="/moon">Moon</Link>
-      <Link to="/love">Love</Link>
-      <Link to="/shaif">Shaif</Link>
-      <Link to="/pain">Pain</Link>
-      <Link to="/last">Last</Link>
+      <Link to="/LoveAndCare">Life</Link>
+      <Link to="/LoveAndCare/moon">Moon</Link>
+      <Link to="/LoveAndCare/love">Love</Link>
+      <Link to="/LoveAndCare/shaif">Shaif</Link>
+      <Link to="/LoveAndCare/pain">Pain</Link>
+      <Link to="/LoveAndCare/last">Last</Link>
     </div>
   );
 };

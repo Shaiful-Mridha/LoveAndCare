@@ -8,7 +8,7 @@ const Pain = () => {
         "When I close my eyes, I can see you so clearly, but once I open my
         eyes, I can't see you anymore."
       </p>
-      <Link to="/last">
+      <Link to="/LoveAndCare/last">
         <button className="fifth">Last Touch</button>
       </Link>
     </div>

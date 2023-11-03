@@ -5,7 +5,7 @@ const Love = () => {
     <div className="love">
       <h3 className="text">You are the love of my life.</h3>
       <h4>Who loves you more?</h4>
-      <Link to="/shaif">
+      <Link to="/LoveAndCare/shaif">
         <button className="third">Touch me</button>
       </Link>
     </div>

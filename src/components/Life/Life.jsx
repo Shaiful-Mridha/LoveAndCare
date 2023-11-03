@@ -3,7 +3,7 @@ import "./Life.css";
 const Life = () => {
   return (
     <div>
-      <Link to="/moon">
+      <Link to="/LoveAndCare/moon">
         <button className="first">Touch me</button>
       </Link>
     </div>

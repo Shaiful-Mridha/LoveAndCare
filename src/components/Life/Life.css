@@ -1,0 +1,13 @@
+.first{
+ margin-top: 100px;
+ margin-left: 100px;
+ color: red;
+ border: 2px solid steelblue;
+ border-radius: 5px;
+ padding: 2px;
+ font-size: medium;
+}
+.first:hover{
+    color: teal;
+    font-size: large;
+}

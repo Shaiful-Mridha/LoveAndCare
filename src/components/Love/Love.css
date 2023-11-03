@@ -1,0 +1,23 @@
+
+.love{
+    margin-top: 100px;
+    margin-left: 100px;
+    color: black;
+    border: 2px solid seagreen;
+    width: 40%;
+    text-align: center;
+    padding: 4px;
+}
+.third{
+    margin-left: 100px;
+    color: red;
+    border: 2px solid steelblue;
+    border-radius: 5px;
+    font-size: medium;
+   }
+   .third:hover{
+       color: teal;
+   }
+   .text{
+    color:green
+   }

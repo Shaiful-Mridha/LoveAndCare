@@ -1,0 +1,23 @@
+
+.pain{
+    margin-top: 100px;
+    margin-left: 100px;
+    color: black;
+    border: 2px solid seagreen;
+    width: 40%;
+    text-align: center;
+    padding: 2px;
+}
+.fifth{
+    margin-left: 100px;
+    color: red;
+    border: 2px solid steelblue;
+    border-radius: 5px;
+    font-size: medium;
+   }
+   .fifth:hover{
+       color: steelblue;
+   }
+   .text3{
+    color: rgb(33, 125, 125);
+   }

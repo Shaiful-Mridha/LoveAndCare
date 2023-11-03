@@ -1,0 +1,23 @@
+
+.shaif{
+    margin-top: 100px;
+    margin-left: 100px;
+    color: black;
+    border: 2px solid seagreen;
+    width: 40%;
+    text-align: center;
+    padding: 2px;
+}
+.fourth{
+    margin-left: 100px;
+    color: red;
+    border: 2px solid steelblue;
+    border-radius: 5px;
+    font-size: medium;
+   }
+   .fourth:hover{
+       color: teal;
+   }
+   .text1{
+    color: teal;
+   }

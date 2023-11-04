@@ -5,7 +5,7 @@ import "./App.css";
 const App = () => {
   return (
     <div>
-      <h3>Hi</h3>
+      <h3>Hi React</h3>
     </div>
   );
 };
